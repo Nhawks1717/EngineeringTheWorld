@@ -1,0 +1,19 @@
+recipes.remove(<>);
+recipes.addShaped(<>,
+ [[<>, <>, <>],
+  [<>, <>, <>],
+  [<>, <>, <>]]);
+  
+recipes.remove(<>);
+recipes.addShapeless(<>,
+ [[<>, <>, <>],
+  [<>, <>, <>],
+  [<>, <>, <>]]);
+
+recipes.remove(<>);  
+recipes.addShapedMirror(<>,
+ [[<>, <>, <>],
+  [<>, <>, <>],
+  [<>, <>, <>]]);
+
+****MAKE SURE TO USE 'NULL' IF SPOT IS EMPTY
